@@ -1,0 +1,220 @@
+.list-group{
+  max-height: 400px;
+  margin-bottom: 10px;
+  overflow:scroll;
+  -webkit-overflow-scrolling: thin;
+  
+  
+  
+}
+.panel-heading{
+  text-align: center;
+  height: 90px;
+  background-color:#f6f6f6;
+  border-top-left-radius:16px;
+  border-top-right-radius:16px;
+
+}
+.wd-50{
+  width:20%;
+  height:20%;
+  margin-left: -33px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  
+}
+.wd-50 img{
+  border-radius: 45px;
+    width: 30%;
+    height: 30%;
+
+}
+.lt-dt{
+  display:flex;
+  align-items: start;
+  width: 92%;
+  margin: auto;
+  margin-bottom: 2px;
+  margin-top: 2px;
+  border-bottom: 1px solid gray;
+  
+}
+.wd-panel{
+  width: 40%;
+  margin: auto;
+  border: 1px solid white;
+  border-radius: 20px;
+  margin-top: 70px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.panel-title{
+  padding-top: 28px;
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 0px;
+}
+.mt-12{
+  margin-top: 17px;
+}
+.ml-46{
+  margin-left: -14px;
+  font-size: 15px;
+  font-weight: 600;
+
+}
+/* custom scrollbar */
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #d6dee1;
+  border-radius: 20px;
+  border: 6px solid transparent;
+  background-clip: content-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #a8bbbf;
+}
+.buttonlist{border: none; background-color: transparent;}
+ul{padding-left: 10px;}
+
+.maincontanier{display: flex; width: 93%;margin: auto;}
+.maincontainer1{border: 1px solid red;}
+.profileimg{display: flex; justify-content: space-between; height: 60px; border-bottom: 1px solid grey; margin-top: 45px; margin-left: -55px;}
+.sidebar{width: 30%;}
+
+.wd-51img img{border-radius: 45px;
+  width: 100%;
+  height: 80%;}
+.proflwheading{margin-top: 7px; font-weight: 600; font-size: 20px; }
+.ingname{display: flex;}
+.wd-51img{margin-bottom: 10px;}
+.profileimg1{width: 73%;margin-left: 100px;}
+.photoadd{display: flex;}
+.pf-153{
+
+
+}
+.pf-153 img{width: 50%; border-radius: 158px;}
+
+.userimg{margin-top: 35px; width: 50%; border-right: 1px solid gray; padding-right: 95px; margin-left: 15px;}
+.hd-p{display: flex; margin-left: -50px;}
+.hd-p h4{margin-top: 16px;
+  margin-bottom: 0;
+  margin-left: 21px;}
+
+ .company{    margin-left: 69px; opacity: 0.6; font-size: 18px; font-weight: 600;}
+ .add{margin-left: 87px;}
+ .dot{margin-left: 30px;}
+ .mt-76{    margin-left: 40px;
+  margin-top: 35px; opacity: 0.5; font-size:18px; font-weight: 600;}
+  .sidebar{background-color: rgb(31, 90, 226);
+    border-radius: 30px;
+    width: 19%; margin-top: 40px; }
+  .linkcolour a{color: white; text-decoration: none; font-weight: 600;font-size: 17px;}
+  .linkcolour{margin-top: 13em;}
+  .linkcolour li{list-style: none; border-bottom: 1px solid white; margin-bottom: 30px; padding-bottom: 20px; width: 80%; margin: auto; margin-top: 10px; margin-bottom: 10px;}
+  .hh1{
+    margin-left: 15px;
+    margin-top: 10px;
+  }
+  .op-05{
+    opacity: 0.5;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .buttu{
+    border-radius: 45px;
+    width: 100%;
+    height: 100%;
+    border: none;
+    background-color: transparent;
+  }
+  .pf-155 img{
+    width: 30%;
+    border-radius: 50%;
+  }
+  .popup{
+    display: block;
+    width: 40%;
+    margin: 10px auto;
+    text-align: center;
+    background-color:white;
+    border-radius: 6%;
+    color: #ffffff;
+    padding: 8px 0;
+    height: 100%;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    margin-block-start: 5%;
+    margin-left: 55%;
+    
+  }
+  .hh4{
+    color: black;
+  }
+  .hh5{
+    color: black;
+    opacity: 0.4 ;
+  }
+  .lt-dt-1{
+    display:flex;
+  align-items: start;
+  width: 92%;
+  margin: auto;
+  margin-bottom: 2px;
+  margin-top: 2px;
+  border-bottom: 1px solid gray;
+
+
+  }
+  .wd-51{
+    width:20%;
+    height:20%;
+    margin-left: -33px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    
+  }
+  .wd-51 img{
+    border-radius: 45px;
+      width: 54%;
+      height: 30%;
+      margin-left: 90px;
+  
+  }
+  .ml-47{
+    margin-left: 75px;
+    font-size: 15px;
+    font-weight: 600;
+  
+  }
+  .mt-13{
+    margin-top: 14px;
+  }
+  .sign-bt{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: red;
+    border: none;
+    border-radius: 20px;
+    width: 94px;
+    height: 32px;
+    margin: auto;
+    margin-top: 10px;
+  }
+  .sign-bt a{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+  }
+  .sign{
+    padding-top: 10px;
+  }
